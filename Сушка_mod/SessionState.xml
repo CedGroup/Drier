@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<SessionState Time='18/01/2016 11:29:49:584'>
+	<InitialValues>
+		<InitialValue ID='447' Name="Объект.Сушка.Сушило 1.Надпись работа.Выход" ValueType='11' Time='18/01/2016 10:43:44:173' Validity='1342505152'>-1</InitialValue>
+		<InitialValue ID='723' Name="Объект.Сушка.Сушило 1.Счетчик.Выход" ValueType='11' Time='18/01/2016 10:33:45:972' Validity='1342505152'>-1</InitialValue>
+		<InitialValue ID='737' Name="Объект.Сушка.Сушило 2.Счетчик.Выход" ValueType='11' Time='18/01/2016 10:33:45:972' Validity='1342505152'>-1</InitialValue>
+		<InitialValue ID='749' Name="Объект.Сушка.Сушило 3.Счетчик.Выход" ValueType='11' Time='18/01/2016 10:33:45:972' Validity='1342505152'>-1</InitialValue>
+	</InitialValues>
+	<FBStates>
+	</FBStates>
+</SessionState>
